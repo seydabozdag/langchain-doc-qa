@@ -13,7 +13,7 @@ Bu proje, LangChain kullanarak PDF dokümanlar üzerinde doğal dilde soru sorab
 
 ## Uygulama Arayüzü
 Aşağıda Gradio ile oluşturduğumuz uygulamanın ekran görüntüsü yer alıyor:
-![Alternatif Metin](Ekran görüntüsü.png)
+![Uygulama Arayüzü](assets/screenshot.png)
 
 ---
 
