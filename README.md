@@ -13,7 +13,7 @@ Bu proje, LangChain kullanarak PDF dokümanlar üzerinde doğal dilde soru sorab
 
 ## Uygulama Arayüzü
 Aşağıda Gradio ile oluşturduğumuz uygulamanın ekran görüntüsü yer alıyor:
-![Alternatif Metin]("C:\Users\seyda\OneDrive\Desktop\Ekran görüntüsü 2025-07-17 103503.png")
+![Alternatif Metin](Ekran görüntüsü.png)
 
 ---
 
